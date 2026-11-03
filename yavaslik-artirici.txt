@@ -1,0 +1,5 @@
+Bu dosya, hesap makinesini daha da yavaş yapmak için eklendi.
+
+Öneri: Her sleep'e +10 saniye ekleyin.
+
+Gizli not: Bürokrasi hiç bitmez.
